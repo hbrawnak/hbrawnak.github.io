@@ -5,7 +5,7 @@ body {
     font-family: 'Alice', serif;
     font-size: 18px;
     font-weight: 400;
-    margin: 0;
+    margin: 10px;
 }
 h1, h2, h3, h4, h5, h6, p, a, ul, li {
     margin: 0;
